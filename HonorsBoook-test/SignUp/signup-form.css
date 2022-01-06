@@ -1,0 +1,69 @@
+/*Signup Page*/
+#signupinfo {
+    width: 100%;
+
+    background:rgb(248, 197, 139);
+    text-align: center;
+    display:flex;
+}
+
+#picture{
+    width:50%;
+    height:20%;
+
+}
+#signupform{
+    margin-left:10%;
+    margin-top:8%;
+    height:30%;
+
+}
+
+#title{
+    font-size:30px;
+    color:rgb(255, 255, 255);
+
+}
+
+#subtitle{
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+
+#signupUsername,
+#signupEmail,
+#signupPassword,
+#signupReEnterPassword{
+    height:40px;
+    width: 350px;
+    font-size: 15px;
+    border-radius: 40px;
+}
+
+#username,
+#email,
+#password,
+#reenterpassword{
+    margin-top:10px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 11%;
+    
+}
+
+#enter{
+    font-size: 25px;
+    width:25%;
+    color:white;
+    padding:5px;
+    margin-left: 62%;
+    border-radius: 40px;
+    background: rgb(38, 108, 212);
+}
+
+body
+{
+ padding:0;
+ margin:auto;
+}
