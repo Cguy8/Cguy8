@@ -4,4 +4,4 @@
 - I'm looking to learn more about develpment on the Unreal Engine.
 - I can be reached by email at COLBYGUY8@GMAIL.COM
 
-- This repository contains various software projects I have developed. Each folder contains its own readme file with more details about the project and my involvement with it.
+- This repository contains various software projects I have developed. Each folder contains its own README file with more details about the project and my involvement with it.

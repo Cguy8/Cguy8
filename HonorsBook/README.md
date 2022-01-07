@@ -1,8 +1,12 @@
 Project name: HonorsBook
 
+Language used: HTML and Javascript
+
+Platform: Web
+
 Role:
 
-- One of two active Project Managers.
+- One of two active Project Managers. (A third co-manager was involved, but departed before the project reached its development phase.)
 - Primarily responsible for Javascript coding of "home" and "interests" pages, including functionality for accessing and displaying information from the Google FireBase database.
 - Shared resposibility for Javascript coding of "ProfilePage" and "ProfilePageEdit" in the "Profile" folder.
 - Primarily responsible for the content of the Software Requirements Specification document.
@@ -15,4 +19,4 @@ This project was originally envisioned as multi-generational, such that future s
 
 The current version of this project, following my involvement, has a live URL at honorsbook.academic.csusb.edu/
 
-See the Software Requirements Specification and Maintenance Manual documents in this folder for more information.
+See the SRS and Maintenance Manual documents in this folder for more information.
