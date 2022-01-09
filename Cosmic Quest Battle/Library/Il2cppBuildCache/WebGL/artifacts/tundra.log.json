@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"WriteResponseFile artifacts/rsp/12720705563382733260.rsp","index":1}
+{"msg":"noderesult","annotation":"WriteResponseFile artifacts/rsp/12720705563382733260.rsp","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"Il2Cpp C:/Users/Holloman/Unity/Cosmic Quest Battle (portfolio version)/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2}

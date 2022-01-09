@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: d0c7c1d514aed9949b1012ddf104497a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1368168725800650845
+    second: battleFightButtons_0
+  - first:
+      213: 5383963424169249202
+    second: battleFightButtons_1
+  - first:
+      213: 4732400592062543909
+    second: battleFightButtons_2
+  - first:
+      213: 4840281166463327007
+    second: battleFightButtons_3
+  - first:
+      213: 8562951765696201885
+    second: battleFightButtons_4
+  - first:
+      213: -8274627363364922188
+    second: battleFightButtons_5
+  - first:
+      213: 4298757691097827675
+    second: battleFightButtons_6
+  - first:
+      213: 4078347349657338991
+    second: battleFightButtons_7
+  - first:
+      213: -6568221642487805556
+    second: battleFightButtons_8
+  - first:
+      213: 390363165472961183
+    second: battleFightButtons_9
+  - first:
+      213: 3684082829363474691
+    second: battleFightButtons_10
+  - first:
+      213: 3654189440606002370
+    second: battleFightButtons_11
+  - first:
+      213: -4808668283320269334
+    second: battleFightButtons_12
+  - first:
+      213: 4534987726419859159
+    second: battleFightButtons_13
+  - first:
+      213: 4809033423709509805
+    second: battleFightButtons_14
+  - first:
+      213: -35573227400879398
+    second: battleFightButtons_15
+  - first:
+      213: 936672607063240300
+    second: battleFightButtons_16
+  - first:
+      213: 3205237993541101302
+    second: battleFightButtons_17
+  - first:
+      213: -7517735095320586902
+    second: battleFightButtons_18
+  - first:
+      213: -6215568180901959289
+    second: battleFightButtons_19
+  - first:
+      213: -317455998991322085
+    second: battleFightButtons_20
+  - first:
+      213: 6513113446966797015
+    second: battleFightButtons_21
+  - first:
+      213: 5445909441908489752
+    second: battleFightButtons_22
+  - first:
+      213: 5677070247228259855
+    second: battleFightButtons_23
+  - first:
+      213: -1826267943286502039
+    second: battleFightButtons_24
+  - first:
+      213: 3546291118444684176
+    second: battleFightButtons_25
+  - first:
+      213: 9046940165341861797
+    second: battleFightButtons_26
+  - first:
+      213: 6294239582721224159
+    second: battleFightButtons_27
+  - first:
+      213: -3771449716271232833
+    second: battleFightButtons_28
+  - first:
+      213: -4598199443655682990
+    second: battleFightButtons_29
+  - first:
+      213: -8305642319530817989
+    second: battleFightButtons_30
+  - first:
+      213: 2012386440334004306
+    second: battleFightButtons_31
+  - first:
+      213: -9072697552333031622
+    second: battleFightButtons_32
+  - first:
+      213: 7454104330808563451
+    second: battleFightButtons_33
+  - first:
+      213: 8135909611339888378
+    second: battleFightButtons_34
+  - first:
+      213: -209976656466633303
+    second: battleFightButtons_35
+  - first:
+      213: 5719959428403556827
+    second: battleFightButtons_36
+  - first:
+      213: -8187465887597223998
+    second: battleFightButtons_37
+  - first:
+      213: 3433284090546515761
+    second: battleFightButtons_38
+  - first:
+      213: -1808408141602822659
+    second: battleFightButtons_39
+  - first:
+      213: 3403486690665389807
+    second: battleFightButtons_40
+  - first:
+      213: 8107647935461760708
+    second: battleFightButtons_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battleFightButtons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58852e0536bcf210800000000000000
+      internalID: 1368168725800650845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 920
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cd45753ea7ba40800000000000000
+      internalID: 5383963424169249202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287cb0e34ddca140800000000000000
+      internalID: 4732400592062543909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 874
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b5f0473122c2340800000000000000
+      internalID: 4840281166463327007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94402f2347b5d670800000000000000
+      internalID: 8562951765696201885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 828
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc18edf04e9a2d80800000000000000
+      internalID: -8274627363364922188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594d51285148ab30800000000000000
+      internalID: 4298757691097827675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 782
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644bf67e43399830800000000000000
+      internalID: 4078347349657338991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894b71573df8d4a0800000000000000
+      internalID: -6568221642487805556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b9631b39da6500800000000000000
+      internalID: 390363165472961183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301735f60dd702330800000000000000
+      internalID: 3684082829363474691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 690
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccdd4d7fe946b230800000000000000
+      internalID: 3654189440606002370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5020a7cad244db0800000000000000
+      internalID: -4808668283320269334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 644
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6130e4f438fee30800000000000000
+      internalID: 4534987726419859159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89f256b6e1db240800000000000000
+      internalID: 4809033423709509805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 598
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a141965e918ff0800000000000000
+      internalID: -35573227400879398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee7def5cabffc00800000000000000
+      internalID: 936672607063240300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f66a9919fa4b7c20800000000000000
+      internalID: 3205237993541101302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ddefe2c3aba790800000000000000
+      internalID: -7517735095320586902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 506
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892e14cbadddb9a0800000000000000
+      internalID: -6215568180901959289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b143e4c637b289bf0800000000000000
+      internalID: -317455998991322085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2a64c0c2a336a50800000000000000
+      internalID: 6513113446966797015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb6e3a8c1c39b40800000000000000
+      internalID: 5445909441908489752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebafabf4109ce40800000000000000
+      internalID: 5677070247228259855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d89b74bfac7a6e0800000000000000
+      internalID: -1826267943286502039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a401bbf4f63130800000000000000
+      internalID: 3546291118444684176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a75a6bc5203d8d70800000000000000
+      internalID: 9046940165341861797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2d4b5d81a95750800000000000000
+      internalID: 6294239582721224159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c76d077e19abc0800000000000000
+      internalID: -3771449716271232833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 276
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2541182e7f9ef20c0800000000000000
+      internalID: -4598199443655682990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b360ae8c05e6cbc80800000000000000
+      internalID: -8305642319530817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 230
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250dbee2ece6deb10800000000000000
+      internalID: 2012386440334004306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3732a635ad471280800000000000000
+      internalID: -9072697552333031622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 184
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf69b84356c427760800000000000000
+      internalID: 7454104330808563451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b9948fae88e070800000000000000
+      internalID: 8135909611339888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 138
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9e2ce753061df0800000000000000
+      internalID: -209976656466633303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f3a36bc0616f40800000000000000
+      internalID: 5719959428403556827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf932f7727406e80800000000000000
+      internalID: -8187465887597223998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6606a0b975af20800000000000000
+      internalID: 3433284090546515761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 46
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e6d6606e37e6e0800000000000000
+      internalID: -1808408141602822659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee51eadc1d9b3f20800000000000000
+      internalID: 3403486690665389807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleFightButtons_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce902557d6248070800000000000000
+      internalID: 8107647935461760708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
