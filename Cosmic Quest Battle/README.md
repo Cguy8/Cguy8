@@ -1,22 +1,14 @@
-Project name: Yield
+Project name: Cosmic Quest Battle!
 
-Language used: Java and some XML
+Language used: C#
 
-Platform: Android
+Platform: Unity
 
-Role:
+Role: This was a solo project.
 
-- Project Manager of 6-person team, responsible for development direction, oversight, and tracking of work done by other team members.
-- Primarily responsible for "Settings" fragment and code related to settings in other fragments.
-- Primarily responsible for the content of the Software Requirements Specification document.
-- Shared responsibility for all other documentation, testing, and screenshots.
+Originally developed in 2021.
 
-All other content was created primarily by other team members.
+This project is a simple RPG genre battle simulator game, featuring custom art and characters.
 
-Originally developed through in-person collaboration in 2019
+A deployed version of the game is available to play in any web browser at the following address: https://chaosprojectauthor.itch.io/cosmic-quest-battle-portfolio-version
 
-This project is a proof-of-concept prototype created to simulate work experience over a 3-month development cycle.
-
-A downloadable Android APK file is included in this repository. It has only been tested to work on a limited range of older devices.
-
-See the SRS and Maintenance Manual documents in the "Documentation" folder for more information. Screenshots of working app are also included.
