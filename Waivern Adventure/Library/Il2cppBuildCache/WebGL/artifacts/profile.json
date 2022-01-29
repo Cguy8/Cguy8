@@ -1,0 +1,25 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+"traceEvents":[
+{ "cat":"", "pid":1, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"tundra" } }
+,{ "pid":1, "tid":0, "ts":1383011640302, "dur":3564, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":4, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":1383011643867, "dur":14007, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":14, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":1383011658285, "dur":137, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"PrepareNodes" }}
+,{ "pid":1, "tid":0, "ts":1383011682480, "dur":29, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"RemoveStaleOutputs" }}
+,{ "pid":1, "tid":0, "ts":1383011682519, "dur":711, "ph":"X", "name": "Tundra",  "args": { "durationMS":1, "detail":"BuildQueueInit" }}
+,{ "pid":1, "tid":0, "ts":1386974992156, "dur":71473, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":71, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":1386975064946, "dur":23, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":1386975065229, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":1386975065238, "dur":147127, "ph":"X", "name": "Tundra",  "args": { "durationMS":147, "detail":"Write AllBuiltNodes" }}
+,{ "pid":1, "tid":1, "ts":1383011718044, "dur":3963306701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":3963307, "detail":"" }}
+,{ "pid":1, "tid":1, "ts":1386975024787, "dur":38514, "ph":"X", "name": "Exiting",  "args": { "durationMS":39, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":2, "ts":1383011717915, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":0, "detail":"WriteResponseFile artifacts/rsp/18171103369711648472.rsp" }}
+,{ "pid":1, "tid":2, "ts":1383011720667, "dur":3843, "ph":"X", "name": "WriteResponseFile",  "args": { "durationMS":4, "detail":"artifacts/rsp/18171103369711648472.rsp" }}
+,{ "pid":1, "tid":2, "ts":1383011727586, "dur":208422, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":208, "detail":"Il2Cpp C:/Users/Holloman/Unity/Waivern Adventure (portfolio version)/Library/Il2cppBuildCache/WebGL/Native/build.bc" }}
+,{ "pid":1, "tid":2, "ts":1383011985611, "dur":3963000898, "ph":"X", "name": "Il2Cpp",  "args": { "durationMS":3963001, "detail":"C:/Users/Holloman/Unity/Waivern Adventure (portfolio version)/Library/Il2cppBuildCache/WebGL/Native/build.bc" }}
+,{ "pid":1, "tid":2, "ts":1386974991663, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":0, "detail":"all_tundra_nodes" }}
+,{ "pid":1, "tid":2, "ts":1386974991888, "dur":373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":2, "ts":1386974992261, "dur":11153, "ph":"X", "name": "Exiting",  "args": { "durationMS":11, "detail":"BuildLoop" }}
+
+]
+}

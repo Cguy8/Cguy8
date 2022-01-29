@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: 32bc68e199364c6409e73c70a75ddf18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 407801630166746720
+    second: NES - The Legend of Zelda - Overworld Tileset 1_0
+  - first:
+      213: 2351086392852551032
+    second: NES - The Legend of Zelda - Overworld Tileset 1_1
+  - first:
+      213: -6889663610522006343
+    second: NES - The Legend of Zelda - Overworld Tileset 1_2
+  - first:
+      213: -8250592063239512354
+    second: NES - The Legend of Zelda - Overworld Tileset 1_3
+  - first:
+      213: -3790436910960795556
+    second: NES - The Legend of Zelda - Overworld Tileset 1_4
+  - first:
+      213: -2959844861339326469
+    second: NES - The Legend of Zelda - Overworld Tileset 1_5
+  - first:
+      213: -5533478201041853638
+    second: NES - The Legend of Zelda - Overworld Tileset 1_6
+  - first:
+      213: -6335220739210237101
+    second: NES - The Legend of Zelda - Overworld Tileset 1_7
+  - first:
+      213: 99458255490336543
+    second: NES - The Legend of Zelda - Overworld Tileset 1_8
+  - first:
+      213: 7001032733956099366
+    second: NES - The Legend of Zelda - Overworld Tileset 1_9
+  - first:
+      213: -5919821331787024804
+    second: NES - The Legend of Zelda - Overworld Tileset 1_10
+  - first:
+      213: 1807033433289571783
+    second: NES - The Legend of Zelda - Overworld Tileset 1_11
+  - first:
+      213: 7187771193907378957
+    second: NES - The Legend of Zelda - Overworld Tileset 1_12
+  - first:
+      213: -7772652359883104599
+    second: NES - The Legend of Zelda - Overworld Tileset 1_13
+  - first:
+      213: 562102486276680510
+    second: NES - The Legend of Zelda - Overworld Tileset 1_14
+  - first:
+      213: 2822389891376828467
+    second: NES - The Legend of Zelda - Overworld Tileset 1_15
+  - first:
+      213: -6642589379461021958
+    second: NES - The Legend of Zelda - Overworld Tileset 1_16
+  - first:
+      213: -9170793347070368242
+    second: NES - The Legend of Zelda - Overworld Tileset 1_17
+  - first:
+      213: -5873749648920373627
+    second: NES - The Legend of Zelda - Overworld Tileset 1_18
+  - first:
+      213: -4767832237915982898
+    second: NES - The Legend of Zelda - Overworld Tileset 1_19
+  - first:
+      213: 843954288051007610
+    second: NES - The Legend of Zelda - Overworld Tileset 1_20
+  - first:
+      213: 2443780064347523037
+    second: NES - The Legend of Zelda - Overworld Tileset 1_21
+  - first:
+      213: -2104976769420782018
+    second: NES - The Legend of Zelda - Overworld Tileset 1_22
+  - first:
+      213: 2111753288952168262
+    second: NES - The Legend of Zelda - Overworld Tileset 1_23
+  - first:
+      213: 2903604030176884235
+    second: NES - The Legend of Zelda - Overworld Tileset 1_24
+  - first:
+      213: -3140059115729295670
+    second: NES - The Legend of Zelda - Overworld Tileset 1_25
+  - first:
+      213: 2640199410331302315
+    second: NES - The Legend of Zelda - Overworld Tileset 1_26
+  - first:
+      213: -6837777458974352237
+    second: NES - The Legend of Zelda - Overworld Tileset 1_27
+  - first:
+      213: -1100078759635191261
+    second: NES - The Legend of Zelda - Overworld Tileset 1_28
+  - first:
+      213: 6148599843301823458
+    second: NES - The Legend of Zelda - Overworld Tileset 1_29
+  - first:
+      213: -4301936423122730001
+    second: NES - The Legend of Zelda - Overworld Tileset 1_30
+  - first:
+      213: 7650475163986454241
+    second: NES - The Legend of Zelda - Overworld Tileset 1_31
+  - first:
+      213: -3260921003237088494
+    second: NES - The Legend of Zelda - Overworld Tileset 1_32
+  - first:
+      213: 3540705042169705856
+    second: NES - The Legend of Zelda - Overworld Tileset 1_33
+  - first:
+      213: -4788030448122365827
+    second: NES - The Legend of Zelda - Overworld Tileset 1_34
+  - first:
+      213: -6579918809478647705
+    second: NES - The Legend of Zelda - Overworld Tileset 1_35
+  - first:
+      213: 5147142594454736351
+    second: NES - The Legend of Zelda - Overworld Tileset 1_36
+  - first:
+      213: 7378781756770719048
+    second: NES - The Legend of Zelda - Overworld Tileset 1_37
+  - first:
+      213: -4147420944465281170
+    second: NES - The Legend of Zelda - Overworld Tileset 1_38
+  - first:
+      213: 8344412207369879298
+    second: NES - The Legend of Zelda - Overworld Tileset 1_39
+  - first:
+      213: 6840123289970708832
+    second: NES - The Legend of Zelda - Overworld Tileset 1_40
+  - first:
+      213: -5178241527726558509
+    second: NES - The Legend of Zelda - Overworld Tileset 1_41
+  - first:
+      213: -1406554377103524987
+    second: NES - The Legend of Zelda - Overworld Tileset 1_42
+  - first:
+      213: 8943301729184621432
+    second: NES - The Legend of Zelda - Overworld Tileset 1_43
+  - first:
+      213: 5029759829783864233
+    second: NES - The Legend of Zelda - Overworld Tileset 1_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0660ae80c6dc8a500800000000000000
+      internalID: 407801630166746720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751b322e9cb0a020800000000000000
+      internalID: 2351086392852551032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc86e0037ff260a0800000000000000
+      internalID: -6889663610522006343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede93f36b32008d80800000000000000
+      internalID: -8250592063239512354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5027aa46b9a56bc0800000000000000
+      internalID: -3790436910960795556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7aa91d7c48ce6d0800000000000000
+      internalID: -2959844861339326469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33688ec4e22533b0800000000000000
+      internalID: -5533478201041853638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bafa99d46c418a0800000000000000
+      internalID: -6335220739210237101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174b74a1c8516100800000000000000
+      internalID: 99458255490336543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc550bd2aa82160800000000000000
+      internalID: 7001032733956099366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56fd010dd198dda0800000000000000
+      internalID: -5919821331787024804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdba70655fd31910800000000000000
+      internalID: 1807033433289571783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b72a381d710c360800000000000000
+      internalID: 7187771193907378957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed0962cddf12490800000000000000
+      internalID: -7772652359883104599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ba2edab3dfcc700800000000000000
+      internalID: 562102486276680510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3305b2d07a42b2720800000000000000
+      internalID: 2822389891376828467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe71704728c0d3a0800000000000000
+      internalID: -6642589379461021958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ea5f2a0ccab080800000000000000
+      internalID: -9170793347070368242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586968490df3c7ea0800000000000000
+      internalID: -5873749648920373627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3bc5637d145ddb0800000000000000
+      internalID: -4767832237915982898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b2f914f356bb00800000000000000
+      internalID: 843954288051007610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78d94550d0ae120800000000000000
+      internalID: 2443780064347523037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e369936e7ce99c2e0800000000000000
+      internalID: -2104976769420782018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fb1418d647e4d10800000000000000
+      internalID: 2111753288952168262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06f5134b7cab4820800000000000000
+      internalID: 2903604030176884235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66a39fed44c64d0800000000000000
+      internalID: -3140059115729295670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93ef4106fd3a420800000000000000
+      internalID: 2640199410331302315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c19a011a55b11a0800000000000000
+      internalID: -6837777458974352237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32afdf2523cbbb0f0800000000000000
+      internalID: -1100078759635191261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e317061bf6345550800000000000000
+      internalID: 6148599843301823458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe38475ad937c44c0800000000000000
+      internalID: -4301936423122730001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e66c50b0a2fb2a60800000000000000
+      internalID: 7650475163986454241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2136179ef91eeb2d0800000000000000
+      internalID: -3260921003237088494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b5f4f97c132130800000000000000
+      internalID: 3540705042169705856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7879edecaf7d8db0800000000000000
+      internalID: -4788030448122365827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603d1664be6fa4a0800000000000000
+      internalID: -6579918809478647705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddc1ce3be25e6740800000000000000
+      internalID: 5147142594454736351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845937fc9e2b66660800000000000000
+      internalID: 7378781756770719048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb12fff966176c0800000000000000
+      internalID: -4147420944465281170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff6b721be4dc370800000000000000
+      internalID: 8344412207369879298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061949644effcee50800000000000000
+      internalID: 6840123289970708832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2beaa14c03328b0800000000000000
+      internalID: -5178241527726558509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b397b0f3aea7ce0800000000000000
+      internalID: -1406554377103524987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873af2ff98dfc1c70800000000000000
+      internalID: 8943301729184621432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld Tileset 1_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ebc79aeb4dc540800000000000000
+      internalID: 5029759829783864233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
