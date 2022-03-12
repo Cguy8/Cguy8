@@ -4,7 +4,7 @@ I'm continuing to hone my skills with C++ and C#, including on the Unity platfor
 I'm looking to learn more about develpment on the Unreal Engine.
 I can be reached by email at COLBYGUY8@GMAIL.COM
 
-This repository contains various software projects I have developed. Each folder contains its own README file with more details about the project and my involvement with it, including the following:
+This repository, https://github.com/Cguy8/Cguy8, contains various software projects I have developed. Each folder contains its own README file with more details about the project and my involvement with it, including the following:
 - Peace of Mind, a proof-of-concept Google Cloud Platform application written primarily in Python.
 - HonorsBook, a prototype web application written primarily in HTML and Javascript.
 - Cosmic Quest Battle, a 2D game on the Unity engine written primarily in C#.
